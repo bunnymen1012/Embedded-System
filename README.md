@@ -10,13 +10,9 @@ Course description:Use of small computers embedded as part of other machines. Li
 
 [TM4C123G_LaunchPad_Workshop_Workbook](https://github.com/bunnymen1012/Embedded-System/blob/master/TM4C123G_LaunchPad_Workshop_Workbook.pdf)
 
-
-
+![images](https://github.com/bunnymen1012/Embedded-System/blob/master/ImagesFolderForReadme/WeChat5bd166847ebb48a212d93f4f08cdef99.png）
 
 • Hardware: processor, memory, I/O, ADC/DAC, power
 
 • Software: Instruction set, firmware, middleware, API
 (Application Programming Interface), RTOS, DSP.
-
-![images](https://github.com/bunnymen1012/Embedded-System/blob/master/ImagesFolderForReadme/WeChat5bd166847ebb48a212d93f4f08cdef99.png）
-
