@@ -16,6 +16,7 @@ Use of small computers embedded as part of other machines. Limited-resource micr
 
 [TM4C123G_LaunchPad_Workshop_Workbook](https://github.com/bunnymen1012/Embedded-System/blob/master/TM4C123G_LaunchPad_Workshop_Workbook.pdf)
 
+## Computer Hardware Review
 
 ## What is Embbed System
 ![images](https://github.com/bunnymen1012/Embedded-System/blob/master/ImagesFolderForReadme/WeChat5bd166847ebb48a212d93f4f08cdef99.png)
