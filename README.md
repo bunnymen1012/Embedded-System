@@ -1,6 +1,9 @@
 # Embedded-System
 
-Course description:Use of small computers embedded as part of other machines. Limited-resource microcontrollers and state machines from high description language. Embedded hardware: RAM, ROM, flash, timers, UARTs, PWM, A/D, multiplexing, debouncing. Development and debugging tools running on host computers. Real-Time Operating System (RTOS) semaphores, mailboxes, queues. Task priorities and rate monotonic scheduling. Software architectures for embedded systems.
+## Course description:
+
+
+Use of small computers embedded as part of other machines. Limited-resource microcontrollers and state machines from high description language. Embedded hardware: RAM, ROM, flash, timers, UARTs, PWM, A/D, multiplexing, debouncing. Development and debugging tools running on host computers. Real-Time Operating System (RTOS) semaphores, mailboxes, queues. Task priorities and rate monotonic scheduling. Software architectures for embedded systems.
 
 
 
